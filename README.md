@@ -43,7 +43,7 @@
 - Java + Selenium + TestNG + Maven  
 - Covers dropdowns, alerts, frames, waits, assertions  
 
-🔹 **Cypress E2E Banking Project**  
+🔹 **Cypress E2E Healthcare Project**  
 - Login, fund transfer, validation scenarios  
 - Custom commands & fixtures  
 
