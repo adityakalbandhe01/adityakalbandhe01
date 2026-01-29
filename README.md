@@ -4,7 +4,6 @@
 <p align="center">
 💻 Manual + Automation Testing  
 🧪 UI | API | Regression | E2E Testing  
-🏦 Banking & Finance Domain  
 </p>
 
 ---
@@ -12,10 +11,11 @@
 ## 👨‍💻 About Me
 
 - 🔹 Automation Test Engineer with **3.8+ years** of experience  
-- 🔹 Strong in **Selenium (Java)** and **Cypress**
-- 🔹 Hands-on experience in **Banking & Finance applications**
+- 🔹 Strong in **Selenium (Java)** and **Cypress** **(JavaScript)**
+- 🔹 Hands-on experience in **Banking & Finance, Commercial web based, Service Provider applications**
 - 🔹 Good understanding of **SDLC, STLC, Agile & Defect Lifecycle**
 - 🔹 Passionate about building **scalable automation frameworks**
+- 🔹 Hands on experienc of Copilot agent creation and testing agents 
 
 ---
 
