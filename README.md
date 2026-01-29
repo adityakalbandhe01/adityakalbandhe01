@@ -43,9 +43,13 @@
 - Java + Selenium + TestNG + Maven  
 - Covers dropdowns, alerts, frames, waits, assertions  
 
-🔹 **Cypress E2E Healthcare Project**  
+🔹 **Cypress E2E  Project**  
 - Login, fund transfer, validation scenarios  
-- Custom commands & fixtures  
+- Custom commands & fixtures
+
+- 🔹 **Selenium Automation project Spicejet Calender for booking**  
+- Java + Selenium + TestNG + Maven  
+- Covers dropdowns, alerts, frames, waits, assertions  
 
 🔹 **API Testing using Postman**  
 - GET, POST, PUT, DELETE  
